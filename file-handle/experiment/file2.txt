@@ -1,0 +1,2 @@
+Hello My name Chau, I'm software Engineer.
+Currently, I'm learning golang and practise Backend skill.
